@@ -9,7 +9,7 @@ import javax.swing.WindowConstants;
 
 public class Exercicio01 extends JFrame {
 
-public Menu() {
+public Exercicio01() {
 JMenuBar barraMenu = new JMenuBar();
 JMenuItem opCliente, fechar;
 setTitle("Menu Cadastro");
